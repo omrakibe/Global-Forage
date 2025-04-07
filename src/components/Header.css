@@ -1,0 +1,8 @@
+.brand-highlight {
+    background: linear-gradient(to right, #0D6EFD, #6610f2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+    font-size: 1.4rem;
+  }
+  
