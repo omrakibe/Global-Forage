@@ -39,20 +39,20 @@ const Footer = () => {
 
         {/* Links */}
         <div className="text-center">
-          <Nav.Link href="#contact">
+          
             <a
-              href="/terms"
+              href="#"
               className="block md:inline hover:underline text-sm md:mx-4"
             >
               Terms & Conditions
             </a>
             <a
-              href="/contact"
+              href="#contact"
               className="block md:inline hover:underline text-sm md:mx-4"
             >
               Contact Us
             </a>
-          </Nav.Link>
+          
         </div>
 
         {/* Contact Info */}
