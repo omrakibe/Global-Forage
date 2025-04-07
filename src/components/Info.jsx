@@ -13,7 +13,8 @@ const Info = () => {
         <p className="text-lg text-gray-600">
           We provide professional boring and drilling services across West Africa. Our operations are proudly based in <strong>Conakry, Guinea</strong>.
         </p>
-        <h2>~ SHUBHAM NIKHADE</h2>
+        <br />
+        <h2>~ <u>SHUBHAM NIKHADE</u></h2>
       </div>
     </motion.div>
   );
